@@ -1,0 +1,5 @@
+Observations:
+
+1.Charter schools have significantly better performance than district schools. All of charter schools have overall passing rate between 62-65% while all district schools have performance between 48-50%.
+
+2.School size is another factor that impact the performance, the smaller the school is, the better the performance. Small schools (under 1787 students) have overall passing rate over 62%, medium schools(1787-2927 students) are between 49-63%, large schools (over 2927 students) are at 48-50%.
